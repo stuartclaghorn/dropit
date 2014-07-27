@@ -112,8 +112,6 @@
 		17BC6F911963734000619F53 /* DropIt */ = {
 			isa = PBXGroup;
 			children = (
-				17BC6F9A1963734000619F53 /* DropItAppDelegate.h */,
-				17BC6F9B1963734000619F53 /* DropItAppDelegate.m */,
 				17BC6F9D1963734100619F53 /* Main.storyboard */,
 				17BC6FA01963734100619F53 /* DropItViewController.h */,
 				17BC6FA11963734100619F53 /* DropItViewController.m */,
@@ -126,6 +124,8 @@
 		17BC6F921963734000619F53 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				17BC6F9A1963734000619F53 /* DropItAppDelegate.h */,
+				17BC6F9B1963734000619F53 /* DropItAppDelegate.m */,
 				17BC6F931963734000619F53 /* DropIt-Info.plist */,
 				17BC6F941963734000619F53 /* InfoPlist.strings */,
 				17BC6F971963734000619F53 /* main.m */,
